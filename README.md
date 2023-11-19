@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 More about me: https://peaceful-frangollo-00d152.netlify.app/
+💬 More about me: https://peaceful-frangollo-00d152.netlify.app/__
 
 📫 How to reach me: kacpertokajj@gmail.com
 <!--
