@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 💬 More about me: https://peaceful-frangollo-00d152.netlify.app/
+
 📫 How to reach me: kacpertokajj@gmail.com
 <!--
 **Coz1n1/Coz1n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
