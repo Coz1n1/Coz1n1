@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ### 🔥 My Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coz1n1&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Currently learning: NextJS
 
 ---
 
