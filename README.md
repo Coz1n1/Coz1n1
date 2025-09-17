@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 ---
 
-
----
-
 <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4NjlveWd5aWVlbmFvYTlrd2JkaGpiazF2aXFnMGV0Z28zc2xtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaNTM9Dzesi5C8/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4NjlveWd5aWVlbmFvYTlrd2JkaGpiazF2aXFnMGV0Z28zc2xtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaNTM9Dzesi5C8/giphy.gif" width="600" height="300"/>
 </div>
